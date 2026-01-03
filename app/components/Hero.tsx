@@ -25,7 +25,7 @@ export default function Hero() {
           Original Games
         </h1>
         <p className="mt-4 text-lg font-medium md:text-xl text-gray-100">
-          The next-gen casino protocol. Own your spins.
+        The ultimate guide to casino games to master the odds. Understand the games. Maximize your returns.
         </p>
         <div className='flex gap-4 justify-center items-center'> 
           <button className="mt-8 px-6 py-3 rounded-full bg-purple-600 text-white hover:bg-purple-700 transition">

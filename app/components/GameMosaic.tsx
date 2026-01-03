@@ -34,7 +34,7 @@ export default function GamesMosaic() {
           <p className="mt-4 text-lg text-gray-400">Play a variety of  fun games.</p>
       </h2>
 
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+      <div className="grid grid-cols-2 md:grid-cols-2 gap-6 max-w-6xl mx-auto">
         {placeholders.map((src, i) => (
           <div
             key={i}

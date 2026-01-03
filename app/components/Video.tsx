@@ -57,12 +57,12 @@ const Video = () => {
         <p className="text-2xl md:text-4xl font-bold text-purple-400 mb-8">
           Play · Spin · Win
         </p>
-        <p className="text-lg md:text-xl text-gray-200 max-w-2xl mx-auto mb-12">
+        <p className="text-lg md:text-xl text-gray-200 px-4 max-w-2xl mx-auto mb-12">
           Experience the thrill of next-generation casino gaming. Your luck starts here.
         </p>
 
         {/* Countdown Timer */}
-        <div className="flex justify-center gap-4 md:gap-8 mb-8">
+        <div className="flex justify-center gap-4 px-4 md:gap-8 mb-8">
           <div className="bg-white/10 backdrop-blur-sm rounded-xl p-4 md:p-6 min-w-20 md:min-w-24">
             <div className="text-3xl md:text-5xl font-bold text-white">{timeLeft.days}</div>
             <div className="text-xs md:text-sm text-gray-400 mt-1">DAYS</div>
