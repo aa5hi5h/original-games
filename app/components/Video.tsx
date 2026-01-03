@@ -57,7 +57,7 @@ const Video = () => {
         <p className="text-xl sm:text-2xl md:text-4xl font-bold text-purple-400 mb-6 sm:mb-8 px-4">
           Play · Spin · Win
         </p>
-        <p className="text-base sm:text-lg md:text-xl text-gray-200 px-6 sm:px-8 max-w-2xl mx-auto mb-8 sm:mb-12">
+        <p className="text-base sm:text-lg md:text-xl text-gray-200 px-6 sm:px-4 max-w-2xl mx-auto mb-8 sm:mb-12">
           Experience the thrill of next-generation casino gaming. Your luck starts here.
         </p>
 
