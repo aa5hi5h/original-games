@@ -24,7 +24,7 @@ export default function Hero() {
         <h1 className="text-6xl md:text-7xl font-extrabold tracking-tight text-white">
           Original Games
         </h1>
-        <p className="mt-4 text-lg font-medium md:text-xl text-gray-100">
+        <p className="mt-4 text-sm font-medium md:text-xl text-gray-200">
         The ultimate guide to casino games to master the odds. Understand the games. Maximize your returns.
         </p>
         <div className='flex gap-4 justify-center items-center'> 
